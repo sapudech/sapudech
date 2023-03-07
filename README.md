@@ -132,7 +132,7 @@
   </tbody>
 </table>
 
-## Medium Post
+<!-- ## Medium Post -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
