@@ -1,7 +1,9 @@
 <img width="100%" height="auto" src="./316963178_5830407643747239_4212663143743630042_n.jpg" />
-### Hi 👋, I'm Natthanon Pathisa
+<h1 align="center"> Hi 👋, I'm Natthanon Pathisa</h1>
+
 ## 📖 About me
 * 💻 I'm a Programmer
+
 ## 👨‍💻 Languages and Tools:
 <table>
   <tbody>
@@ -129,9 +131,11 @@
     </tr>
   </tbody>
 </table>
+
 ## Medium Post
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 ## 📈 Github Stats
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sapudech&show_icons=true&locale=en&theme=cobalt2" alt="sapudech" />
