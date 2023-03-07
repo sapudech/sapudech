@@ -134,6 +134,12 @@
 
 ### 📺 Latest YouTube Videos
 
+<div align="center">
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UC0ll2Eei_3w4JQlT7qyn4yQ?sub_confirmation=1)
+
+</div>
+
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 ## Medium Post
