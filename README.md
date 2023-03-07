@@ -142,13 +142,6 @@
 
 </div>
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
----
-
-## Medium Post
-
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-p0yGTXOMpg"><img width="140px" src="https://i.ytimg.com/vi/-p0yGTXOMpg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-p0yGTXOMpg">สุดจริง #valorant</a><br/>Jul 5, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6P-aTALLtLw"><img width="140px" src="https://i.ytimg.com/vi/6P-aTALLtLw/mqdefault.jpg"></a></td>
