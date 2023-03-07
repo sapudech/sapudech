@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="./profile.png" />
+<img width="100%" height="auto" src="./316963178_5830407643747239_4212663143743630042_n.jpg" />
 ### Hi 👋, I'm Natthanon Pathisa
 ## 📖 About me
 * 💻 I'm a Programmer
