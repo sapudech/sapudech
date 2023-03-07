@@ -133,7 +133,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ## 📈 Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sapudech&show_icons=true&locale=en" alt="jame3032002" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sapudech&show_icons=true&locale=en&theme=radical" alt="sapudech" />
 <br />
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapudech&show_icons=true&locale=en&layout=compact" alt="jame3032002" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapudech&show_icons=true&locale=en&layout=compact" alt="sapudech" />
