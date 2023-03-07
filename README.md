@@ -152,6 +152,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
 ## 📈 Github Stats
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sapudech&show_icons=true&locale=en&theme=cobalt2" alt="sapudech" />
