@@ -132,6 +132,8 @@
   </tbody>
 </table>
 
+---
+
 ### 📺 Latest YouTube Videos
 
 <div align="center">
@@ -142,6 +144,8 @@
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+---
 
 ## Medium Post
 
